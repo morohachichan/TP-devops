@@ -1,8 +1,4 @@
 
-print("Hello DevOps - version 2")
+print("Hello DevOps - version 3 - modification rebase")
 
-def login(user):
-    return "Bienvenue " + user
-
-print(login("Ama"))
 
