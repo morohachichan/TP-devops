@@ -1,3 +1,4 @@
-print("Hello DevOps")
-# test
-print("this is the second modification")
+def login(user):
+    return "Bienvenue " + user
+
+print(login("Ama"))
