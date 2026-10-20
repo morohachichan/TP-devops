@@ -1,3 +1,1 @@
-print("Hello DevOps")
-# test
-print("this is the second modification")
+print("Hello DevOps - version 2")
